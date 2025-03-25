@@ -1,0 +1,7 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
