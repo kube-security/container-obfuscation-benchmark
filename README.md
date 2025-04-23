@@ -9,7 +9,9 @@ The goal of this benchmark is to evaluate the impact of various obfuscation meth
 python main.py
 ```
 
-This command generates the corresponding Dockerfiles, with increasing obfuscation.  
+This command generates the corresponding Dockerfiles, with increasing obfuscation. 
+
+The current latest version of the obfuscated dataset is available [here](https://hub.docker.com/repositories/jackops93).
 
 ## Tests
 
