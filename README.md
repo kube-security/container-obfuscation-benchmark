@@ -11,12 +11,9 @@ python main.py
 
 This command generates the corresponding Dockerfiles, with increasing obfuscation. 
 
-The current latest version of the obfuscated dataset is available [here](https://hub.docker.com/repositories/jackops93).
 
 ## Tests
 
 The following table compares the detection capabilities of various tools across different obfuscation techniques. V and P mean vulnerabilities and packages respectively. If an obfuscation (or multiple) technique reduces the amount of vulnerabiligies or packages detected then it is marked in ❌. Alternatively ✅ indicates that the tool is resilient to the technique. 
 
-The ORCA tool can be found [here](https://github.com/kube-security/orca).
 
-![Benchmark Results](benchmark.png)
